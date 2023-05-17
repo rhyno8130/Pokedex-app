@@ -28,5 +28,6 @@ let pokemonList = [
     {name : "sandshrew", height : 0.6, type : "ground"},
     {name : "sandslash", height : 1, type : "ground"},
     {name : "nidoran", height : 0.4, type : "poison"},
+    {name : "nidorina", height : 0.8, type : "poison"},
 
 ];
